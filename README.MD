@@ -99,7 +99,7 @@ python bots/test_bot_balance_thieft.py
 - Backend: FastAPI
 - AI: OpenAI GPT-4
 - Database: Supabase
-- Blockchain: Mantle
+- Blockchain: Base
 - Real-time: WebSockets
 - HTTP Client: HTTPX
 
